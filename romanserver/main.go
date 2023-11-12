@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	romanNumerals "github.com/Adedunmol/romanNumerals"
+	romanNumerals "github.com/Adedunmol/romannumerals"
 )
 
 func main() {
